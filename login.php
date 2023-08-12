@@ -334,14 +334,15 @@ text-indent: 0px;
     </h2>
   </center>
   <hr>
-  <form action="POST">
+  <form id="login"  method="post" action="logindb.php">
+
 		<center>
       <div> 
-        <input type="text" name="username" placeholder="Username" value="">
-        <input type="password" name="password" placeholder="Password">
+        <input type="text" name="Uid1" placeholder="Username" value="">
+        <input type="password" name="Pass1" placeholder="Password">
        </div>
 		
-		  <button>Login</button>
+		  <button type="submit">Login</button>
 		</center>
 		<br>
 	</form>
@@ -351,3 +352,5 @@ text-indent: 0px;
   <div class="footer">    
 
 </body>
+
+
