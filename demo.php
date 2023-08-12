@@ -52,7 +52,7 @@ body {
   -o-animation: fadein 2s; /* Opera */
   animation: fadein 2s;
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 50%;
   transform: translate(-50% ,-50%);
   background-color: rgba(255, 255, 255, 0.3);
@@ -316,10 +316,16 @@ text-indent: 0px;
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<div class="bg"></div>
-<br><BR><BR><BR>
-<h1 style="text-align: center; margin-top: 50px; color: goldenrod;">BharatGodam Solutions LLP</h1>
+<div class="bg"></div><br><center>
+<img src="logo.png" width="500" height="400" alt="Logo"></center>
 
+  <ul class="bubbles">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
 <div class="container animated fadeIn">
   <center>
     
@@ -340,13 +346,7 @@ text-indent: 0px;
 		<br>
 	</form>
 </div>
-  <ul class="bubbles">
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
+
   
   <div class="footer">    
 
