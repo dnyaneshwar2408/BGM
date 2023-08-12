@@ -324,7 +324,7 @@ text-indent: 0px;
   <center>
     
     <h2>
-      <a href="#homepage">LOGIN</a>
+      <a>LOGIN</a>
     </h2>
   </center>
   <hr>
