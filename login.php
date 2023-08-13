@@ -1,3 +1,4 @@
+<?php include "header.php"; ?>
 <style>
   /*FONT*/
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300);
@@ -317,7 +318,7 @@ text-indent: 0px;
 </head>
 <body>
 <div class="bg"></div><br><center>
-<img src="logo.png" width="500" height="400" alt="Logo"></center>
+
 
   <ul class="bubbles">
         <li></li>
